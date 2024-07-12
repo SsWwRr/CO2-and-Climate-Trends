@@ -22,4 +22,7 @@ QUESTION 5:What is the trend in the budget imbalance over the years?
 
 ![image](https://github.com/user-attachments/assets/f44afb5f-3b83-439a-aa16-4d282550af84)
 
+QUESTION 6: What are the long-term trends in melting ice areas for both the Northern and Southern Hemispheres?
+
+![image](https://github.com/user-attachments/assets/e8ab0cc4-265f-429a-8b4b-a20fee0eab74)
 
