@@ -1,8 +1,11 @@
 # CO2-and-Climate-Trends
 # Introduction
 This project is focused on showcasing my PostgreSQL and Power BI skills. The repository is divided by their use into three main parts: 
+
 Database Updates: Scripts for updating the databases to better suit my needs.
+
 Data Queries: SQL queries to answer specific questions and extract relevant data.
+
 Power BI Integration: Creation of smaller tables to be used in Power BI Desktop for visualization.
 
 # QUESTIONS
