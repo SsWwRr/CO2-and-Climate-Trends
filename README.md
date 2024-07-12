@@ -35,5 +35,6 @@ QUESTION 7:Is there a correlation between global temperature anomaly changes and
 ![image](https://github.com/user-attachments/assets/e8ab0cc4-265f-429a-8b4b-a20fee0eab74)
 
 ANSWER 6: Southern hemisphere has lost a lot of ice during the last decade while northern hemisphere has been steadily losing a similar amount of ice every decade.
-ANSWER 7:As the anomaly rate is going up, the amount of ice lost is also getting higher
+
+ANSWER 7:As the anomaly rate is going up, the amount of ice lost is also getting higher.
 
