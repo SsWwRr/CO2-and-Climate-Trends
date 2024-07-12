@@ -27,6 +27,13 @@ QUESTION 5:What is the trend in the budget imbalance over the years?
 
 ![image](https://github.com/user-attachments/assets/f44afb5f-3b83-439a-aa16-4d282550af84)
 
+
+Acknwoledgments:
+NASA's Goddard Institute for Space Studies - for providing the database about the anomaly rate of temperature change
+The Global Carbon Project - for providing data regarding the global carbon budget
+Fetterer, F., Knowles, K., Meier, W. N., Savoie, M. & Windnagel, A. K. (2017). Sea Ice Index, Version 3 [Data Set]. Boulder, Colorado USA. National Snow and Ice Data Center. https://doi.org/10.7265/N5K072F8. Date Accessed 07-12-2024. - for providing the data bout the ice surface of northern and southern hemisphere
+
+
 ANSWER 5:The budget imbalance has been volatile over the last 5 decades.
 
 QUESTION 6:What are the long-term trends in melting ice areas for both the Northern and Southern Hemispheres?
