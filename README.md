@@ -1,6 +1,14 @@
 # CO2-and-Climate-Trends
 # Introduction
-This project is focused on showcasing my PostgreSQL and Power BI skills. The repository is divided by their use into three main parts: 
+This project is focused on showcasing my PostgreSQL and Power BI skills. 
+| Technology used | Skills used |
+| --- | --- |
+| PostgreSQL | Complex Window functions, Data manipulation, Data creation, Data Analysis |
+| PowerBi | Data Visualization, Data Analysis | 
+| PgAdmin4 | Database creation, Data entry |
+| Excel | Data manipulation |
+
+The repository is divided by their use into three main parts: 
 
 Database Updates: Scripts for updating the databases to better suit my needs.
 
