@@ -16,6 +16,9 @@ Data Queries: SQL queries to answer specific questions and extract relevant data
 
 Power BI Integration: Creation of smaller tables to be used in Power BI Desktop for visualization.
 
+Conclusion:
+Based on the data that was analysed, we can see that every variable studied in this projects points to the fact that the earth is warming up. Some have been gradually warming up over the last 150 years (like the temperature anomaly rate) while others only recently started decaying but at abnormally fast rate (like change in ice surface of the southern hemisphere). 
+
 # QUESTIONS
 QUESTION 1:What are the long-term trends in global temperature anoomaly changes over the years and are there any notable seasonal patterns in temperature changes?
 
