@@ -3,6 +3,7 @@
 This project is designed to showcase my skills in PostgreSQL and Power BI by analyzing climate data related to CO2 emissions and global temperature trends. Through this project, I demonstrate my ability to handle complex data analysis, data visualization, and database management.
 
 | Technology Used	| Skills Demonstrated | 
+| ---------------- | ------------------ |
 | PostgreSQL | 	Complex Window Functions, Data Manipulation, Data Creation, Data Analysis | 
 | Power BI | 	Data Visualization, Interactive Reporting, Data Analysis |
 | PgAdmin4	| Database Creation, Data Entry, Query Optimization |
