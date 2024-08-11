@@ -8,6 +8,7 @@ This project is designed to showcase my skills in PostgreSQL and Power BI by ana
 | Power BI | 	Data Visualization, Interactive Reporting, Data Analysis |
 | PgAdmin4	| Database Creation, Data Entry, Query Optimization |
 | Excel	| Data Manipulation, Data Cleaning |
+
 The repository is organized into three main sections based on their functionality:
  * Database Updates: Contains scripts for updating and optimizing the database structure to better suit the analysis needs.
  * Data Queries: Includes SQL queries that extract and analyze specific data points, providing insights into climate trends.
